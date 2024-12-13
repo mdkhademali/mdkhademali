@@ -12,4 +12,4 @@ I'm **GIS & Remote Sensing** expert specializing in spatial analysis, satellite 
 
 <h2 align="center">Contact Me</h2>
 <p align='center'>
-<a href="https://bd.linkedin.com/in/mdkhademali" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" /></a>
+<a href="https://www.linkedin.com/in/mdkhademali/"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" /></a>
