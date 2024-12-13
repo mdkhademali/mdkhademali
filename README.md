@@ -1,16 +1,15 @@
-![GIS & Remote Sensing Expert](https://www.wkcgroup.com/wp-content/uploads/2021/02/Maxar.jpg)
+<p align='center'> <img src= "https://www.wkcgroup.com/wp-content/uploads/2021/02/Maxar.jpg" </p>
+<h1 align="center">Hi there, This is Md. Khadem Ali</h1>
+<h3 align="center"><i>Homo Sapiens</i> <b> (221b)</b></h3>
 
-### I'm Md. Khadem Ali
-###### **GIS & Remote Sensing Expert**
+I'm **GIS & Remote Sensing** expert specializing in spatial analysis, satellite imagery, and geospatial data processing using Python and GIS tools. Experienced with JavaScript for Google Earth Engine (GEE) to analyze and visualize geospatial data. Passionate about creating solutions that drive insights from satellite data.
 
-I'm **GIS & Remote Sensing** expert. Specializing in spatial analysis, satellite imagery, and geospatial data processing with Python and GIS tools.
+**Skills:** JS/HTML/ CSS/Python (Django, Numpy)
 
-Skills:  JS / HTML / CSS / Python (Django, Numpy)
+- I’m currently working on ArcGIS, QGIS & GEE (Spatial analysis, satellite imagery, geospatial processing & NDVI calculation)
+- I’m currently learning Python, JS, R, Machine Learning and GIS-RS.
+- I'm a student of Geography & Environment at NU
 
-- 🔭 I’m currently working on QGIS, ArcGIS
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on GitHub
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdkhademali/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdkhademali)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">Contact Me</h2>
+<p align='center'>
+<a href="https://bd.linkedin.com/in/mdkhademali" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" /></a>
