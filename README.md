@@ -1,15 +1,57 @@
-<p align='center'> <img src= "https://www.wkcgroup.com/wp-content/uploads/2021/02/Maxar.jpg" </p>
-<h1 align="center">Md Khadem Ali</h1>
-<h3 align="center"><i>Homo Sapiens</i> <b> (221b)</b></h3>
+<h3 align="center">Md Khadem Ali</h3>
 
-I'm **GIS & Remote Sensing** expert specializing in spatial analysis, satellite imagery, and geospatial data processing using Python and GIS tools. Experienced with JavaScript for Google Earth Engine (GEE) to analyze and visualize geospatial data. Passionate about creating solutions that drive insights from satellite data.
+<p align="center">
+  <strong>GIS & Remote Sensing Specialist | Earth Observation | Spatial Data for Environmental Insights</strong>
+</p>
 
-**Programming Skills:** HTML/Go/JS/Python (Django, Numpy, GeoPandas, Matplotlib)
+<p align="center">
+  <a href="https://www.khademali.com" target="_blank" rel="noopener noreferrer">
+    <strong>My Academic Portfolio</strong>
+  </a>
+</p>
 
-- I’m currently working on ArcGIS, QGIS & GEE (Spatial analysis, satellite imagery, geospatial processing & NDVI calculation)
-- I’m currently learning Python, JS, R, Machine Learning and GIS-RS.
-- I'm a student of Geography & Environment at NU
+---
 
-<h2 align="center">Contact Me</h2>
-<p align='center'>
-<a href="https://www.linkedin.com/in/khadem-ali/"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" /></a>
+### About Me
+
+<div align="justify">
+
+I am a dedicated GIS and Remote Sensing specialist with a solid academic background in geography, environmental analysis, and satellite-based earth observation. My passion lies in harnessing spatial data and geospatial technologies to analyze and address real-world environmental challenges. I possess expertise in geospatial data processing, satellite imagery analysis, and spatial modeling, utilizing a wide range of tools and programming languages.
+
+With practical experience in Google Earth Engine, ArcGIS, and QGIS, I focus on environmental monitoring, land cover mapping, and spatial statistics. Additionally, I enjoy leveraging open-source Python libraries to automate workflows, perform raster and vector data analysis, and produce insightful geospatial visualizations.
+
+I am committed to advancing data-driven storytelling to support sustainable decision-making and effective scientific communication.
+
+</div>
+
+---
+
+### Skills & Tools
+
+**GIS & Remote Sensing:**  
+`ArcGIS` • `QGIS` • `Google Earth Engine (JavaScript & Python)` • `Google Earth Pro`
+
+**Data Analysis & Statistics:**  
+`GeoPandas` • `NumPy` • `Matplotlib` • `SPSS` • `Excel` • `SQL`
+
+**Programming Languages:**  
+`Python` • `JavaScript` • `Go` • `HTML` • `LaTeX`
+
+---
+
+### Specialties
+
+- Vegetation Index (NDVI/EVI) Analysis  
+- Land Use & Land Cover (LULC) Classification  
+- Geospatial Machine Learning & Model Training  
+- Time-Series Remote Sensing  
+- Environmental Change Detection
+
+---
+
+### Education
+
+**B.Sc. in Geography & Environment**  
+National University of Bangladesh  
+
+**Relevant Coursework:**  GIS & Remote Sensing, Cartography, Environmental Geography, Geospatial Data Analysis, Python, R
