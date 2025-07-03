@@ -1,7 +1,7 @@
 <h3 align="center">Md Khadem Ali</h3>
 
 <p align="center">
-  <strong>GIS & Remote Sensing Specialist | Earth Observation | Spatial Data for Environmental Insights</strong>
+  <strong>GIS & Remote Sensing Enthusiast | Exploring Geospatial AI & LLMs for Environmental Insights | Research Enthusiast</strong>
 </p>
 
 <p align="center">
