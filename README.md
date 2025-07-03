@@ -16,7 +16,7 @@
 
 <div align="justify">
 
-I am a dedicated GIS and Remote Sensing Enthusiast with a solid academic background in geography, environmental analysis, and satellite-based earth observation. My passion lies in harnessing spatial data and geospatial technologies to analyze and address real-world environmental challenges. I possess expertise in geospatial data processing, satellite imagery analysis, and spatial modeling, utilizing a wide range of tools and programming languages.
+I am a dedicated GIS and Remote Sensing enthusiast with a solid academic background in geography, environmental analysis, and satellite-based earth observation. My passion lies in harnessing spatial data and geospatial technologies to analyze and address real-world environmental challenges. I possess expertise in geospatial data processing, satellite imagery analysis, and spatial modeling, utilizing a wide range of tools and programming languages.
 
 With practical experience in Google Earth Engine, ArcGIS, and QGIS, I focus on environmental monitoring, land cover mapping, and spatial statistics. Additionally, I enjoy leveraging open-source Python libraries to automate workflows, perform raster and vector data analysis, and produce insightful geospatial visualizations.
 
