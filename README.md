@@ -54,7 +54,7 @@ With hands-on experience in tools like **ArcGIS, QGIS, Google Earth Engine**, an
 
 ## Education
 
-**B.Sc. in Geography & Environment**  
+**B.Sc in Geography & Environment**  
 Shahid M. Mansur Ali College  
 <sub><i>Affiliated with National University of Bangladesh</i></sub>
 
