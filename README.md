@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Remote Sensing & GIS Enthusiast | Geospatial AI Explorer | Environmental Analyst</strong><br>
-  <a href="https://www.khademali.com" target="_blank" rel="noopener noreferrer">Visit My Academic Portfolio</a>
+  <a href="https://www.khademali.com" target="_blank" rel="noopener noreferrer">My Academic Portfolio</a>
 </p>
 
 <p align="center">
@@ -68,3 +68,27 @@ Shahid M. Mansur Ali College
 
 **Relevant Coursework:**  
 GIS & Remote Sensing, Environmental Geography, Cartography, Python Programming, Geospatial Data Analysis
+
+---
+
+
+<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: nowrap;">
+
+  <!-- ORCID -->
+  <a href="https://orcid.org/0009-0006-0917-3372" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" style="border-radius: 12px;" />
+  </a>
+
+  <!-- Web of Science -->
+  <a href="https://www.webofscience.com/wos/author/record/NZO-2787-2025" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Web%20of%20Science-228B22?style=for-the-badge&logo=clarivate&logoColor=white" alt="Web of Science" style="border-radius: 12px;" />
+  </a>
+
+  <!-- Academia.edu -->
+  <a href="https://graphicspath.academia.edu/mdkhademali" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Academia.edu-414141?style=for-the-badge&logo=academia&logoColor=white" alt="Academia.edu" style="border-radius: 12px;" />
+  </a>
+
+</p>
+
+
