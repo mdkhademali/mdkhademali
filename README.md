@@ -1,55 +1,70 @@
-<h3 align="center">Md Khadem Ali</h3>
+<h1 align="center">Md Khadem Ali</h1>
 
 <p align="center">
-  <strong>GIS & Remote Sensing Enthusiast | Exploring Geospatial AI & LLMs for Environmental Insights | Research Enthusiast</strong>
+  <strong>Remote Sensing & GIS Enthusiast | Geospatial AI Explorer | Environmental Analyst</strong><br>
+  <a href="https://www.khademali.com" target="_blank" rel="noopener noreferrer">Visit My Academic Portfolio</a>
 </p>
 
 <p align="center">
-  <a href="https://www.khademali.com" target="_blank" rel="noopener noreferrer">
-    <strong>My Academic Portfolio</strong>
-  </a>
+  <img src="https://img.shields.io/badge/Remote%20Sensing-0057A0?style=for-the-badge&logo=satellite&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIS-00BFFF?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" />
+  <img src="https://img.shields.io/badge/QGIS-A3C93A?style=for-the-badge&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArcGIS-0066CC?style=for-the-badge&logo=arcgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
 ---
 
-### About Me
+## About Me
 
 <div align="justify">
 
-I am a dedicated GIS and Remote Sensing enthusiast with a solid academic background in geography, environmental analysis, and satellite-based earth observation. My passion lies in harnessing spatial data and geospatial technologies to analyze and address real-world environmental challenges. I possess expertise in geospatial data processing, satellite imagery analysis, and spatial modeling, utilizing a wide range of tools and programming languages.
+I’m a passionate explorer of the **geospatial world**, using remote sensing, GIS, and programming to understand and visualize environmental changes. My work focuses on satellite imagery analysis, land use classification, and spatial modeling through automation and data science techniques.
 
-With practical experience in Google Earth Engine, ArcGIS, and QGIS, I focus on environmental monitoring, land cover mapping, and spatial statistics. Additionally, I enjoy leveraging open-source Python libraries to automate workflows, perform raster and vector data analysis, and produce insightful geospatial visualizations.
+With hands-on experience in tools like **Google Earth Engine, ArcGIS, QGIS**, and programming languages such as **Python** and **R**, I enjoy building reproducible workflows and translating geospatial data into meaningful environmental insights.
 
 </div>
 
 ---
 
-### Skills & Tools
+## Technical Toolbox
 
-**GIS & Remote Sensing:**  
-`ArcGIS` • `QGIS` • `Google Earth Engine` • `Google Earth Pro`
-
-**Data Analysis & Statistics:**  
-`GeoPandas` • `NumPy` • `Matplotlib` • `SPSS` • `Excel` • `SQL`
-
-**Programming Languages:**  
-`Python` • `JavaScript` • `R` • `Go` • `HTML` • `LaTeX`
-
----
-
-### Specialties
-
-- Vegetation Index (NDVI/EVI) Analysis  
-- Land Use & Land Cover (LULC) Classification  
-- Geospatial Machine Learning & Model Training  
-- Time-Series Remote Sensing  
-- Environmental Change Detection
+<table>
+  <tr>
+    <th align="left">GIS & Remote Sensing</th>
+    <td>Google Earth Engine, ArcGIS, QGIS, Google Earth Pro</td>
+  </tr>
+  <tr>
+    <th align="left">Programming Languages</th>
+    <td>Python, JavaScript, R, SQL, LaTeX</td>
+  </tr>
+  <tr>
+    <th align="left">Analysis & Visualization</th>
+    <td>GeoPandas, NumPy, Matplotlib, Excel, SPSS</td>
+  </tr>
+</table>
 
 ---
 
-### Education
+## Focus Areas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-%20Vegetation%20Index%20(NDVI,EVI)-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/-%20Land%20Use%20&%20LULC%20Mapping-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/-%20Geospatial%20ML%20&%20Modeling-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/-%20Time%20Series%20Remote%20Sensing-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/-%20Environmental%20Change%20Detection-red?style=flat-square" />
+</p>
+
+---
+
+## Education
 
 **B.Sc. in Geography & Environment**  
-National University of Bangladesh  
+Shahid M. Mansur Ali College  
+<sub><i>Affiliated with National University of Bangladesh</i></sub>
 
-**Relevant Coursework:**  GIS & Remote Sensing, Cartography, Environmental Geography, Geospatial Data Analysis, Python, R
+**Relevant Coursework:**  
+GIS & Remote Sensing, Environmental Geography, Cartography, Python Programming, Geospatial Data Analysis
