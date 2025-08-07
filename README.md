@@ -8,9 +8,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Remote%20Sensing-0057A0?style=for-the-badge&logo=satellite&logoColor=white" />
   <img src="https://img.shields.io/badge/GIS-00BFFF?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" />
-  <img src="https://img.shields.io/badge/QGIS-A3C93A?style=for-the-badge&logo=qgis&logoColor=white" />
   <img src="https://img.shields.io/badge/ArcGIS-0066CC?style=for-the-badge&logo=arcgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/QGIS-A3C93A?style=for-the-badge&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
@@ -23,40 +23,32 @@
 
 I’m a passionate explorer of the **geospatial world**, using remote sensing, GIS, and programming to understand and visualize environmental changes. My work focuses on satellite imagery analysis, land use classification, and spatial modeling through automation and data science techniques.
 
-With hands-on experience in tools like **Google Earth Engine, ArcGIS, QGIS**, and programming languages such as **Python** and **R**, I enjoy building reproducible workflows and translating geospatial data into meaningful environmental insights.
+With hands-on experience in tools like **ArcGIS, QGIS, Google Earth Engine**, and programming languages such as **Python** and **R**, I enjoy building reproducible workflows and translating geospatial data into meaningful environmental insights.
 
 </div>
 
 ---
 
-## Technical Toolbox
+## Skills
 
 <table>
   <tr>
     <th align="left">GIS & Remote Sensing</th>
-    <td>Google Earth Engine, ArcGIS, QGIS, Google Earth Pro</td>
+    <td>
+      ArcGIS, QGIS, Google Earth Engine, Google Earth Pro, ERDAS Imagine, ENVI, SNAP (ESA), Sentinel Hub, Landsat Toolbox, MODIS Tools, Raster & Vector Analysis, Georeferencing, Image Classification (Supervised & Unsupervised), NDVI/NDWI/NDBI Analysis, Change Detection, DEM Processing, Map Layout & Cartographic Design, Spatial Interpolation, GPS Data Handling, Field Survey Integration
+    </td>
   </tr>
   <tr>
     <th align="left">Programming Languages</th>
-    <td>Python, JavaScript, R, SQL, LaTeX</td>
+    <td>Python, JavaScript (for GEE), R, SQL, LaTeX</td>
   </tr>
   <tr>
     <th align="left">Analysis & Visualization</th>
-    <td>GeoPandas, NumPy, Matplotlib, Excel, SPSS</td>
+    <td>
+      GeoPandas, NumPy, Pandas, Matplotlib, Seaborn, Plotly, Tableau, Excel, SPSS, Power BI
+    </td>
   </tr>
 </table>
-
----
-
-## Focus Areas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-%20Vegetation%20Index%20(NDVI,EVI)-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/-%20Land%20Use%20&%20LULC%20Mapping-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/-%20Geospatial%20ML%20&%20Modeling-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/-%20Time%20Series%20Remote%20Sensing-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/-%20Environmental%20Change%20Detection-red?style=flat-square" />
-</p>
 
 ---
 
@@ -72,22 +64,18 @@ GIS & Remote Sensing, Environmental Geography, Cartography, Python Programming, 
 ---
 
 <p align="center">
-  <!-- ORCID -->
   <a href="https://orcid.org/0009-0006-0917-3372" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" style="border-radius: 12px; margin-bottom: 10px;" />
+    <img src="https://img.shields.io/badge/-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
   </a>
-  <br/>
 
-  <!-- Web of Science -->
   <a href="https://www.webofscience.com/wos/author/record/NZO-2787-2025" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Web%20of%20Science-228B22?style=for-the-badge&logo=clarivate&logoColor=white" alt="Web of Science" style="border-radius: 12px; margin-bottom: 10px;" />
+    <img src="https://img.shields.io/badge/-228B22?style=for-the-badge&logo=clarivate&logoColor=white" alt="Web of Science" />
   </a>
-  <br/>
 
-  <!-- Academia.edu -->
   <a href="https://graphicspath.academia.edu/mdkhademali" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Academia.edu-414141?style=for-the-badge&logo=academia&logoColor=white" alt="Academia.edu" style="border-radius: 12px;" />
+    <img src="https://img.shields.io/badge/-414141?style=for-the-badge&logo=academia&logoColor=white" alt="Academia.edu" />
   </a>
 </p>
+
 
 
