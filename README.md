@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Remote%20Sensing-0057A0?style=for-the-badge&logo=satellite&logoColor=white" />
   <img src="https://img.shields.io/badge/GIS-00BFFF?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Remote%20Sensing-0057A0?style=for-the-badge&logo=satellite&logoColor=white" />
   <img src="https://img.shields.io/badge/ArcGIS-0066CC?style=for-the-badge&logo=arcgis&logoColor=white" />
   <img src="https://img.shields.io/badge/QGIS-A3C93A?style=for-the-badge&logo=qgis&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" />
