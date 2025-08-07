@@ -1,7 +1,7 @@
 <h1 align="center">Md Khadem Ali</h1>
 
 <p align="center">
-  <strong>Remote Sensing & GIS Enthusiast | Geospatial AI Explorer | Environmental Analyst</strong><br>
+  <strong>GIS & Remote Sensing Enthusiast | Geospatial AI Explorer | Environmental Analyst</strong><br>
   <a href="https://www.khademali.com" target="_blank" rel="noopener noreferrer">My Academic Portfolio</a>
 </p>
 
