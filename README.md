@@ -18,10 +18,21 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" />
+
+  <!-- Research & Writing Tools -->
+  <img src="https://img.shields.io/badge/Zotero-B80000?style=for-the-badge&logo=zotero&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mendeley-A41E34?style=for-the-badge&logo=mendeley&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-4D4D4D?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-24292E?style=for-the-badge&logo=notion&logoColor=white" />
+
   <!-- Cloud & Version Control -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
+
+
+
 
 
 ---
