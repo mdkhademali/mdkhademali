@@ -6,13 +6,21 @@
 </p>
 
 <p align="center">
+  <!-- Core GIS/RS Tools -->
   <img src="https://img.shields.io/badge/GIS-00BFFF?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Remote%20Sensing-0057A0?style=for-the-badge&logo=satellite&logoColor=white" />
   <img src="https://img.shields.io/badge/ArcGIS-0066CC?style=for-the-badge&logo=arcgis&logoColor=white" />
   <img src="https://img.shields.io/badge/QGIS-A3C93A?style=for-the-badge&logo=qgis&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" />
+
+  <!-- Programming & Scripting -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  
+  <!-- Cloud & Version Control -->
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
 ---
