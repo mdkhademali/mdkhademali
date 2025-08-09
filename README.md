@@ -31,10 +31,6 @@
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
-
-
-
-
 ---
 
 ## About Me
@@ -82,7 +78,13 @@ Shahid M. Mansur Ali College
 GIS & Remote Sensing, Environmental Geography, Cartography, Python Programming, Geospatial Data Analysis
 
 ---
+## Code Usage
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdkhademali&layout=compact&langs_count=20&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
 <p align="center">
   <a href="https://orcid.org/0009-0006-0917-3372" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
@@ -96,6 +98,3 @@ GIS & Remote Sensing, Environmental Geography, Cartography, Python Programming, 
     <img src="https://img.shields.io/badge/-414141?style=for-the-badge&logo=academia&logoColor=white" alt="Academia.edu" />
   </a>
 </p>
-
-
-
