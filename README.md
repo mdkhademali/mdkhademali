@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" />
 
   <!-- Research & Writing Tools -->
   <img src="https://img.shields.io/badge/Zotero-B80000?style=for-the-badge&logo=zotero&logoColor=white" />
@@ -76,13 +75,6 @@ Shahid M. Mansur Ali College
 
 **Relevant Coursework:**  
 GIS & Remote Sensing, Environmental Geography, Cartography, Python Programming, Geospatial Data Analysis
-
----
-## Code Usage
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdkhademali&layout=compact&langs_count=20&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 <p align="center">
