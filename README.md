@@ -55,12 +55,12 @@ With hands-on experience in tools like **ArcGIS, QGIS, Google Earth Engine**, an
   </tr>
   <tr>
     <th align="left">Programming Languages</th>
-    <td>Python, JavaScript (for GEE), R, SQL, LaTeX</td>
+    <td>Python, JavaScript (for GEE), R, MATLAB, LaTeX</td>
   </tr>
   <tr>
     <th align="left">Analysis & Visualization</th>
     <td>
-      GeoPandas, NumPy, Pandas, Matplotlib, Seaborn, Plotly, Tableau, Excel, SPSS, Power BI
+      GeoPandas, NumPy, Pandas, Matplotlib, Seaborn, Plotly, Tableau, Excel, SPSS, SQL, Power BI
     </td>
   </tr>
 </table>
