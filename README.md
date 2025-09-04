@@ -115,6 +115,7 @@ With hands-on experience in tools like **ArcGIS, QGIS, Google Earth Engine**, an
   </tr>
 </table>
 
+---
 
 ## GitHub Stats
 
