@@ -124,7 +124,7 @@ With hands-on experience in tools like **ArcGIS, QGIS, Google Earth Engine**, an
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdkhademali&layout=compact&langs_count=13&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdkhademali&layout=compact&langs_count=500&theme=radical" />
 </p>
 
 ---
