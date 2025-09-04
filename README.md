@@ -7,15 +7,11 @@
 <p align="center">
   <a href="https://www.khademali.com" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://img.shields.io/badge/-My Portfolio-0A66C2?style=for-the-badge&logo=read-the-docs&logoColor=white" 
+      src="https://img.shields.io/badge/-My%20Portfolio-0A66C2?style=flat&logo=read-the-docs&logoColor=white&height=18&radius=12" 
       alt="My Portfolio" 
-      style="height:22px; border-radius:50px; vertical-align:middle;" 
     />
   </a>
 </p>
-
-
-
 
 ---
 ## About Me
@@ -27,6 +23,14 @@ I’m a passionate explorer of the **geospatial world**, using remote sensing, G
 With hands-on experience in tools like **ArcGIS, QGIS, Google Earth Engine**, and programming languages such as **Python** and **R**, I enjoy building reproducible workflows and translating geospatial data into meaningful environmental insights.
 
 </div>
+
+
+<a href="https://github.com/mdkhademali/gis-rs-ml-bangla-series" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://img.shields.io/badge/-GIS%2FRS%20ML%20Bangla-181717?style=flat&logo=github&logoColor=white&height=18&radius=12" 
+    alt="GIS/RS ML Bangla Series" 
+  />
+</a>
 
 ---
 
