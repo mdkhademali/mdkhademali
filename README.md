@@ -114,7 +114,7 @@ With hands-on experience in tools like **ArcGIS, QGIS, Google Earth Engine**, an
   <tr>
     <th align="left" style="padding:8px; vertical-align:top; color:#F05032;">Cloud & Version Control</th>
     <td style="padding:8px; vertical-align:top; color:#333;">
-      Git, GitHub, Kaggle, Google Colab
+      Git, GitHub, Kaggle, Google Colab, VS Code
     </td>
   </tr>
 </table>
