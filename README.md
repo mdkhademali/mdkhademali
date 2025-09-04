@@ -92,7 +92,7 @@ With hands-on experience in tools like **ArcGIS, QGIS, Google Earth Engine**, an
   <tr>
     <th align="left" style="padding:8px; vertical-align:top; width:180px; color:#007ACC;">GIS & Remote Sensing</th>
     <td style="padding:8px; vertical-align:top; color:#333;">
-      ArcGIS, QGIS, Google Earth Engine, Google Earth Pro, ERDAS Imagine, ENVI, SNAP (ESA), Sentinel Hub, Landsat Toolbox, MODIS Tools, Raster & Vector Analysis, Georeferencing, Image Classification (Supervised & Unsupervised), NDVI/NDWI/NDBI Analysis, Change Detection, DEM Processing, Map Layout & Cartographic Design, Spatial Interpolation, GPS Data Handling, Field Survey Integration
+      ArcGIS Pro, QGIS, Google Earth Engine, Google Earth Pro, Sentinel Hub, Landsat Toolbox, MODIS Tools, Raster & Vector Analysis, Georeferencing, Image Classification (Supervised & Unsupervised), NDVI/NDWI/NDBI Analysis, Change Detection, DEM Processing, Map Layout & Cartographic Design, Spatial Interpolation, GPS Data Handling, Field Survey Integration
     </td>
   </tr>
   <tr>
