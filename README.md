@@ -18,7 +18,7 @@
 
 <div align="justify">
 
-I’m a passionate explorer of the **geospatial world**, using remote sensing, GIS, and programming to understand and visualize environmental changes. My work focuses on satellite imagery analysis, land use classification, and spatial modeling through automation and data science techniques.
+I’m a passionate explorer of the **geospatial world**, using Remote Sensing, GIS, and programming to understand and visualize environmental changes. My work focuses on satellite imagery analysis, land use classification, and spatial modeling through automation and data science techniques.
 
 With hands-on experience in tools like **ArcGIS, QGIS, Google Earth Engine**, and programming languages such as **Python** and **R**, I enjoy building reproducible workflows and translating geospatial data into meaningful environmental insights.
 
