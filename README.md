@@ -51,9 +51,8 @@ With hands-on experience in tools like **ArcGIS, QGIS, Google Earth Engine**, an
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white&height=25" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white&height=25" />
   <img src="https://img.shields.io/badge/MySQL-00618A?style=flat&logo=mysql&logoColor=white&height=25" />
-  <img src="https://img.shields.io/badge/Matlab-0076A8?style=flat&logo=mathworks&logoColor=white&height=25" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white&height=25" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&height=25" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white&height=25" />
 
   <!-- Analysis & Visualization -->
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white&height=25" />
@@ -69,7 +68,6 @@ With hands-on experience in tools like **ArcGIS, QGIS, Google Earth Engine**, an
   <img src="https://img.shields.io/badge/Mendeley-A41E34?style=flat&logo=mendeley&logoColor=white&height=25" />
   <img src="https://img.shields.io/badge/Markdown-4D4D4D?style=flat&logo=markdown&logoColor=white&height=25" />
   <img src="https://img.shields.io/badge/Notion-24292E?style=flat&logo=notion&logoColor=white&height=25" />
-  <img src="https://img.shields.io/badge/Overleaf-179C7D?style=flat&logo=overleaf&logoColor=white&height=25" />
 
   <!-- Cloud & Version Control -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&height=25" />
