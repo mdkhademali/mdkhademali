@@ -20,7 +20,7 @@
 
 I’m a passionate explorer of the **geospatial world**, using Remote Sensing, GIS, and programming to understand and visualize environmental changes. My work focuses on satellite imagery analysis, land use classification, and spatial modeling through automation and data science techniques.
 
-With hands-on experience in tools like **ArcGIS, QGIS, Google Earth Engine**, and programming languages such as **Python** and **R**, I enjoy building reproducible workflows and translating geospatial data into meaningful environmental insights.
+With hands-on experience in tools like **ArcGIS, QGIS, Google Earth Engine**, and programming languages such as **Python**, **SQL** and **R**, I enjoy building reproducible workflows and translating geospatial data into meaningful environmental insights.
 
 </div>
 
@@ -52,14 +52,8 @@ With hands-on experience in tools like **ArcGIS, QGIS, Google Earth Engine**, an
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white&height=25" />
   <img src="https://img.shields.io/badge/MySQL-00618A?style=flat&logo=mysql&logoColor=white&height=25" />
   <img src="https://img.shields.io/badge/Matlab-0076A8?style=flat&logo=mathworks&logoColor=white&height=25" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white&height=25" />
-  <img src="https://img.shields.io/badge/Fortran-4D4D4D?style=flat&logo=fortran&logoColor=white&height=25" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&height=25" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&height=25" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&height=25" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white&height=25" />
-  <img src="https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white&height=25" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white&height=25" />
 
   <!-- Analysis & Visualization -->
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white&height=25" />
@@ -97,7 +91,7 @@ With hands-on experience in tools like **ArcGIS, QGIS, Google Earth Engine**, an
   </tr>
   <tr>
     <th align="left" style="padding:8px; vertical-align:top; color:#3776AB;">Programming Languages</th>
-    <td style="padding:8px; vertical-align:top; color:#333;">Python, JavaScript (for GEE), R, MATLAB, LaTeX, Julia, C++, C#, Bash, TypeScript, Go, Fortran</td>
+    <td style="padding:8px; vertical-align:top; color:#333;">Python, JavaScript (for GEE), R, MATLAB, LaTeX, </td>
   </tr>
   <tr>
     <th align="left" style="padding:8px; vertical-align:top; color:#2E8B57;">Analysis & Visualization</th>
