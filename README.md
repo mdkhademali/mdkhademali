@@ -100,7 +100,7 @@ With hands-on experience in tools like **ArcGIS, QGIS, Google Earth Engine**, an
   <tr>
     <th align="left" style="padding:8px; vertical-align:top; color:#E97627;">Research & Writing Tools</th>
     <td style="padding:8px; vertical-align:top; color:#333;">
-      Zotero, Mendeley, Markdown, Notion, Overleaf
+      Zotero, Markdown, Notion, Overleaf
     </td>
   </tr>
   <tr>
@@ -125,13 +125,3 @@ With hands-on experience in tools like **ArcGIS, QGIS, Google Earth Engine**, an
   <a href="https://orcid.org/0009-0006-0917-3372" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-A6CE39?style=flat&logo=orcid&logoColor=white&rounded=true" alt="ORCID" />
   </a>
-
-  <a href="https://www.webofscience.com/wos/author/record/NZO-2787-2025" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-228B22?style=flat&logo=clarivate&logoColor=white&rounded=true" alt="Web of Science" />
-  </a>
-
-  <a href="https://graphicspath.academia.edu/mdkhademali" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-414141?style=flat&logo=academia&logoColor=white&rounded=true" alt="Academia.edu" />
-  </a>
-</p>
-
