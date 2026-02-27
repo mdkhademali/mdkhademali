@@ -24,13 +24,43 @@ With hands-on experience in tools like **ArcGIS, QGIS, Google Earth Engine**, an
 
 </div>
 
+---
+
+<p align="left">
+  <b>I develop geospatial tools, libraries, and learning resources to make GIS & Remote Sensing more practical and accessible.</b>
+</p>
+
+<p align="left">
+
+<a href="https://github.com/mdkhademali/coordinate-picker" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://img.shields.io/badge/-QGIS%20Plugin-589632?style=flat&logo=qgis&logoColor=white&height=20&radius=12" 
+    alt="QGIS Plugin" 
+  />
+</a> |
+
+<a href="https://github.com/mdkhademali/geokhadem" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://img.shields.io/badge/-Python%20Library-3776AB?style=flat&logo=python&logoColor=white&height=20&radius=12" 
+    alt="Python Library" 
+  />
+</a> |
+
+<a href="https://github.com/mdkhademali/geo-location-analyzer" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://img.shields.io/badge/-Chrome%20Extension-4285F4?style=flat&logo=google-chrome&logoColor=white&height=20&radius=12" 
+    alt="Chrome Extension" 
+  />
+</a> |
 
 <a href="https://github.com/mdkhademali/gis-rs-ml-bangla-series" target="_blank" rel="noopener noreferrer">
   <img 
-    src="https://img.shields.io/badge/-GIS%2FRS%20ML%20Bangla-181717?style=flat&logo=github&logoColor=white&height=18&radius=12" 
-    alt="GIS/RS ML Bangla Series" 
+    src="https://img.shields.io/badge/-GIS%2FRS%20ML%20Bangla%20Book-8B0000?style=flat&logo=bookstack&logoColor=white&height=20&radius=12" 
+    alt="GIS/RS ML Bangla Book" 
   />
 </a>
+
+</p>
 
 ---
 
@@ -122,6 +152,17 @@ With hands-on experience in tools like **ArcGIS, QGIS, Google Earth Engine**, an
 ---
 
 <p align="center">
+
   <a href="https://orcid.org/0009-0006-0917-3372" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-A6CE39?style=flat&logo=orcid&logoColor=white&rounded=true" alt="ORCID" />
+    <img src="https://img.shields.io/badge/-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID" />
   </a>
+
+  <a href="https://scholar.google.com/citations?hl=en&authuser=2&user=KSohxTYAAAAJ" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+  </a>
+
+  <a href="https://www.researchgate.net/profile/Md-Khadem-Ali-3" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate" />
+  </a>
+
+</p>
