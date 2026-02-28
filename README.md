@@ -20,7 +20,7 @@
 
 I’m a passionate explorer of the **geospatial world**, using Remote Sensing, GIS, and programming to understand and visualize environmental changes. My work focuses on satellite imagery analysis, land use classification, and spatial modeling through automation and data science techniques.
 
-With hands-on experience in tools like **ArcGIS, QGIS, Google Earth Engine**, and programming languages such as **Python**, **SQL** and **R**, I enjoy building reproducible workflows and translating geospatial data into meaningful environmental insights.
+With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**, and programming languages such as **Python**, **SQL** and **R**, I enjoy building reproducible workflows and translating geospatial data into meaningful environmental insights.
 
 </div>
 
@@ -37,21 +37,21 @@ With hands-on experience in tools like **ArcGIS, QGIS, Google Earth Engine**, an
     src="https://img.shields.io/badge/-QGIS%20Plugin-589632?style=flat&logo=qgis&logoColor=white&height=20&radius=12" 
     alt="QGIS Plugin" 
   />
-</a> |
+</a>
 
 <a href="https://github.com/mdkhademali/geokhadem" target="_blank" rel="noopener noreferrer">
   <img 
     src="https://img.shields.io/badge/-Python%20Library-3776AB?style=flat&logo=python&logoColor=white&height=20&radius=12" 
     alt="Python Library" 
   />
-</a> |
+</a>
 
 <a href="https://github.com/mdkhademali/geo-location-analyzer" target="_blank" rel="noopener noreferrer">
   <img 
     src="https://img.shields.io/badge/-Chrome%20Extension-4285F4?style=flat&logo=google-chrome&logoColor=white&height=20&radius=12" 
     alt="Chrome Extension" 
   />
-</a> |
+</a>
 
 <a href="https://github.com/mdkhademali/gis-rs-ml-bangla-series" target="_blank" rel="noopener noreferrer">
   <img 
