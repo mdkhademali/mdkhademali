@@ -114,7 +114,7 @@ With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**
   <tr>
     <th align="left" style="padding:8px; vertical-align:top; width:180px; color:#007ACC;">GIS & Remote Sensing</th>
     <td style="padding:8px; vertical-align:top; color:#333;">
-      ArcGIS Pro, QGIS, Google Earth Engine, Google Earth Pro, Sentinel Hub, Landsat Toolbox, MODIS Tools, Raster & Vector Analysis, Georeferencing, Image Classification (Supervised & Unsupervised), NDVI/NDWI/NDBI Analysis, Change Detection, DEM Processing, Map Layout & Cartographic Design, Spatial Interpolation, GPS Data Handling, Field Survey Integration
+      ArcGIS Pro, QGIS, Google Earth Engine
     </td>
   </tr>
   <tr>
@@ -136,7 +136,7 @@ With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**
   <tr>
     <th align="left" style="padding:8px; vertical-align:top; color:#F05032;">Cloud & Version Control</th>
     <td style="padding:8px; vertical-align:top; color:#333;">
-      Git, GitHub, Kaggle, Google Colab, VS Code
+      Git, GitHub, Kaggle, Google Colab, Jupyter Notebook, VS Code
     </td>
   </tr>
 </table>
