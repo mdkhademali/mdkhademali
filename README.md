@@ -119,7 +119,7 @@ With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**
   </tr>
   <tr>
     <th align="left" style="padding:8px; vertical-align:top; color:#3776AB;">Programming Languages</th>
-    <td style="padding:8px; vertical-align:top; color:#333;">Python, JavaScript (for GEE), R, MATLAB, LaTeX, </td>
+    <td style="padding:8px; vertical-align:top; color:#333;">Python, JavaScript (for GEE), R, MATLAB, LaTeX</td>
   </tr>
   <tr>
     <th align="left" style="padding:8px; vertical-align:top; color:#2E8B57;">Analysis & Visualization</th>
