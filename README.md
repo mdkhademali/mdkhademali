@@ -27,7 +27,7 @@ With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**
 ---
 
 <p align="left">
-  <b>I develop geospatial tools, libraries, and learning resources to make GIS & Remote Sensing more practical and accessible.</b>
+  <b>Developed geospatial software tools (QGIS plugin, Python library, Chrome extension) and authored a foundational GIS, Remote Sensing, and Machine Learning book. See link below.</b>
 </p>
 
 <p align="left">
