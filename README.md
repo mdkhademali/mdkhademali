@@ -13,7 +13,7 @@
 
 ---
 </a>
-  <img src="https://komarev.com/ghpvc/?username=mdkhademali&label=Profile%20Views&color=blue&style=flat-square&base=1500" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=mdkhademali&label=Profile%20Views&color=blue&style=flat-square&base=1600" alt="Views" />
 </p>
 
 ---
@@ -40,22 +40,10 @@ With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**
 </p>
 
 ---
-<h2 align="left">Selected Publications</h2>
+<h2 align="left">Publications</h2>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Preprint-orange?style=flat-square" alt="Preprint" />
-  <a href="https://doi.org/10.2139/ssrn.6055754" target="_blank">
-    <img src="https://img.shields.io/badge/DOI-10.2139%2Fssrn.6055754-B31B1B?style=flat-square&logo=doi&logoColor=white" alt="DOI: 10.2139/ssrn.6055754">
-  </a>
-<br>
-<b><u>Ali, M. K.</u></b> (2026). <i>Integrating Remote Sensing and MODIS-Based Time-Series Analysis to Quantify Seasonal Vegetation Rhythm Disruptions: A Case Study</i>. <b>SSRN</b>.
-</p>
-<p align="left">
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6055754" target="_blank">
-    <a href="https://doi.org/10.2139/ssrn.6055754" target="_blank">
-  <img src="https://img.shields.io/badge/Read%20on%20SSRN-004A99?style=flat-square&logo=elsevier&logoColor=white" alt="Read on SSRN">
-</a>
-  </a>
+  <img src="https://img.shields.io/badge/Status-Preprint-orange?style=flat-square" alt="Preprint" />&nbsp;<a href="https://doi.org/10.2139/ssrn.6055754" target="_blank"><img src="https://img.shields.io/badge/DOI-10.2139%2Fssrn.6055754-B31B1B?style=flat-square&logo=doi&logoColor=white" alt="DOI"></a>&nbsp;<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6055754" target="_blank"><img src="https://img.shields.io/badge/Read%20on%20SSRN-004A99?style=flat-square&logo=elsevier&logoColor=white" alt="Read on SSRN"></a>
 </p>
 
 ---
