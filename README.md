@@ -5,12 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.khademali.com" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://img.shields.io/badge/-My%20Portfolio-0A66C2?style=flat&logo=read-the-docs&logoColor=white&height=18&radius=12" 
-      alt="My Portfolio" 
-    />
-  </a>
+  <a href="https://www.khademali.com" target="_blank"><img src="https://img.shields.io/badge/-My%20Portfolio-0A66C2?style=flat&logo=read-the-docs&logoColor=white" alt="Portfolio"></a>
+  <a href="https://orcid.org/0009-0006-0917-3372" target="_blank"><img src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="https://scholar.google.com/citations?hl=en&authuser=2&user=KSohxTYAAAAJ" target="_blank"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://www.researchgate.net/profile/Md-Khadem-Ali-3" target="_blank"><img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
 </p>
 
 ---
@@ -27,39 +25,14 @@ With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**
 ---
 
 <p align="left">
-  <b>Developed geospatial software tools (QGIS plugin, Python library, Chrome extension) and authored a foundational GIS, Remote Sensing, and Machine Learning book. See link below.</b>
+  <i>Strived to innovate in the geospatial field through the development of custom tools (QGIS plugin, Python library, Chrome extension) and a foundational book on GIS-RS, and ML. Repository link below (currently private).</i>
 </p>
 
 <p align="left">
-
-<a href="https://github.com/mdkhademali/coordinate-picker" target="_blank" rel="noopener noreferrer">
-  <img 
-    src="https://img.shields.io/badge/-QGIS%20Plugin-589632?style=flat&logo=qgis&logoColor=white&height=20&radius=12" 
-    alt="QGIS Plugin" 
-  />
-</a>
-
-<a href="https://github.com/mdkhademali/geokhadem" target="_blank" rel="noopener noreferrer">
-  <img 
-    src="https://img.shields.io/badge/-Python%20Library-3776AB?style=flat&logo=python&logoColor=white&height=20&radius=12" 
-    alt="Python Library" 
-  />
-</a>
-
-<a href="https://github.com/mdkhademali/geo-location-analyzer" target="_blank" rel="noopener noreferrer">
-  <img 
-    src="https://img.shields.io/badge/-Chrome%20Extension-4285F4?style=flat&logo=google-chrome&logoColor=white&height=20&radius=12" 
-    alt="Chrome Extension" 
-  />
-</a>
-
-<a href="https://github.com/mdkhademali/gis-rs-ml-bangla-series" target="_blank" rel="noopener noreferrer">
-  <img 
-    src="https://img.shields.io/badge/-GIS%2FRS%20ML%20Bangla%20Book-8B0000?style=flat&logo=bookstack&logoColor=white&height=20&radius=12" 
-    alt="GIS/RS ML Bangla Book" 
-  />
-</a>
-
+  <a href="https://github.com/mdkhademali/coordinate-picker" target="_blank"><img src="https://img.shields.io/badge/-QGIS%20Plugin-589632?style=flat&logo=qgis&logoColor=white" alt="QGIS Plugin"></a>
+  <a href="https://github.com/mdkhademali/geokhadem" target="_blank"><img src="https://img.shields.io/badge/-Python%20Library-3776AB?style=flat&logo=python&logoColor=white" alt="Python Library"></a>
+  <a href="https://github.com/mdkhademali/geo-location-analyzer" target="_blank"><img src="https://img.shields.io/badge/-Chrome%20Extension-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Chrome Extension"></a>
+  <a href="https://github.com/mdkhademali/gis-rs-ml-bangla-series" target="_blank"><img src="https://img.shields.io/badge/-GIS%2FRS%20ML%20Bangla%20Book-8B0000?style=flat&logo=bookstack&logoColor=white" alt="GIS/RS ML Bangla Book"></a>
 </p>
 
 ---
@@ -147,22 +120,4 @@ With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdkhademali&layout=compact&langs_count=500&theme=radical" />
-</p>
-
----
-
-<p align="center">
-
-  <a href="https://orcid.org/0009-0006-0917-3372" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID" />
-  </a>
-
-  <a href="https://scholar.google.com/citations?hl=en&authuser=2&user=KSohxTYAAAAJ" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar" />
-  </a>
-
-  <a href="https://www.researchgate.net/profile/Md-Khadem-Ali-3" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate" />
-  </a>
-
 </p>
