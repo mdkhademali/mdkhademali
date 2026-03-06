@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.khademali.com" target="_blank"><img src="https://img.shields.io/badge/-My%20Portfolio-0A66C2?style=flat&logo=read-the-docs&logoColor=white" alt="Portfolio"></a>
   <a href="https://orcid.org/0009-0006-0917-3372" target="_blank"><img src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"></a>
   <a href="https://scholar.google.com/citations?hl=en&authuser=2&user=KSohxTYAAAAJ" target="_blank"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://www.researchgate.net/profile/Md-Khadem-Ali-3" target="_blank"><img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
+  <a href="https://www.khademali.com" target="_blank"><img src="https://img.shields.io/badge/-My%20Portfolio-0A66C2?style=flat&logo=read-the-docs&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
@@ -20,7 +20,7 @@
 ## About Me
 <div align="justify">
 
-I’m a passionate explorer of the **geospatial world**, using Remote Sensing, GIS, and programming to understand and visualize environmental changes. My work focuses on satellite imagery analysis, land use classification, and spatial modeling through automation and data science techniques.
+I’m a passionate explorer of the <b>geospatial world</b>, leveraging Remote Sensing, GIS, and advanced programming to monitor and visualize our changing environment. My work specializes in high-resolution satellite imagery analysis, automated land use classification, and predictive spatial modeling. Driven by innovation, I integrate <b>Machine Learning</b> and <b>Deep Learning</b> architectures to extract hidden patterns from big geospatial data. I am also deeply interested in developing <b>Geo-Digital Twins</b> creating dynamic, virtual replicas of physical environments to simulate and analyze real-world scenarios through automation and data science techniques.
 
 With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**, and programming languages such as **Python**, and **R**, I enjoy building reproducible workflows and translating geospatial data into meaningful environmental insights.
 
@@ -37,6 +37,25 @@ With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**
   <a href="https://github.com/mdkhademali/geokhadem" target="_blank"><img src="https://img.shields.io/badge/-Python%20Library-3776AB?style=flat&logo=python&logoColor=white" alt="Python Library"></a>
   <a href="https://github.com/mdkhademali/geo-location-analyzer" target="_blank"><img src="https://img.shields.io/badge/-Chrome%20Extension-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Chrome Extension"></a>
   <a href="https://github.com/mdkhademali/gis-rs-ml-bangla-series" target="_blank"><img src="https://img.shields.io/badge/-GIS%2FRS%20ML%20Bangla%20Book-8B0000?style=flat&logo=bookstack&logoColor=white" alt="GIS/RS ML Bangla Book"></a>
+</p>
+
+---
+<h2 align="left">Selected Publications</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Preprint-orange?style=flat-square" alt="Preprint" />
+  <a href="https://doi.org/10.2139/ssrn.6055754" target="_blank">
+    <img src="https://img.shields.io/badge/DOI-10.2139%2Fssrn.6055754-B31B1B?style=flat-square&logo=doi&logoColor=white" alt="DOI: 10.2139/ssrn.6055754">
+  </a>
+<br>
+<b><u>Ali, M. K.</u></b> (2026). <i>Integrating Remote Sensing and MODIS-Based Time-Series Analysis to Quantify Seasonal Vegetation Rhythm Disruptions: A Case Study</i>. <b>SSRN</b>.
+</p>
+<p align="left">
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6055754" target="_blank">
+    <a href="https://doi.org/10.2139/ssrn.6055754" target="_blank">
+  <img src="https://img.shields.io/badge/Read%20on%20SSRN-004A99?style=flat-square&logo=elsevier&logoColor=white" alt="Read on SSRN">
+</a>
+  </a>
 </p>
 
 ---
@@ -108,7 +127,7 @@ With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**
   <tr>
     <th align="left" style="padding:8px; vertical-align:top; color:#E97627;">Research & Writing Tools</th>
     <td style="padding:8px; vertical-align:top; color:#333;">
-      Zotero, Markdown, Notion, Overleaf
+      Zotero, Mendeley, Markdown, Notion, Overleaf
     </td>
   </tr>
   <tr>
