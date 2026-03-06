@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size:2.5rem; margin-bottom:8px;">Md Khadem Ali</h1>
 
 <p align="center" style="font-size:1.1rem; color:#555; margin-bottom:16px;">
-  GIS & Remote Sensing Enthusiast | Geospatial AI Explorer | Environmental Analyst
+  GIS & Remote Sensing Enthusiast • Geospatial AI Explorer • Environmental Analyst
 </p>
 
 <p align="center">
@@ -12,13 +12,17 @@
 </p>
 
 ---
-## About Me
+</a>
+  <img src="https://komarev.com/ghpvc/?username=mdkhademali&label=Profile%20Views&color=blue&style=flat-square&base=1500" alt="Views" />
+</p>
 
+---
+## About Me
 <div align="justify">
 
 I’m a passionate explorer of the **geospatial world**, using Remote Sensing, GIS, and programming to understand and visualize environmental changes. My work focuses on satellite imagery analysis, land use classification, and spatial modeling through automation and data science techniques.
 
-With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**, and programming languages such as **Python**, **SQL** and **R**, I enjoy building reproducible workflows and translating geospatial data into meaningful environmental insights.
+With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**, and programming languages such as **Python**, and **R**, I enjoy building reproducible workflows and translating geospatial data into meaningful environmental insights.
 
 </div>
 
@@ -80,8 +84,9 @@ With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**
 </div>
 
 <!-- Skills Overview -->
-<p style="font-style:italic; color:#555; margin-bottom:12px;">A concise overview of tools, programming languages, and research software I’m proficient in:</p>
-
+<p align="left">
+  <i><font color="#555">A concise overview of tools, programming languages, and research software I’m proficient in:</font></i>
+</p>
 <!-- Skills Table -->
 <table style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif; margin-top:5px;">
   <tr>
