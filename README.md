@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size:2.5rem; margin-bottom:8px;">Md Khadem Ali</h1>
 
 <p align="center" style="font-size:1.1rem; color:#555; margin-bottom:16px;">
-  GIS & Remote Sensing Enthusiast • Geospatial AI Explorer • Environmental Analyst
+  GIS & Remote Sensing • Python, R • GeoAI & ML • Time-Series Analytics • Geo-Digital Twins • Research Enthusiast
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ I’m a passionate explorer of the <b>geospatial world</b>, leveraging Remote Se
 
 With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**, and programming languages such as **Python**, and **R**, I enjoy building reproducible workflows and translating geospatial data into meaningful environmental insights.
 
-**Founder** at [@GeoSystems-Intelligence](https://github.com/GeoSystems-Intelligence)  
+**Founder** at [@GeoSystems-Intelligence](https://github.com/geosystems-intelligence)  
 *Bridging Geospatial Science & Artificial Intelligence*
 
 </div>
