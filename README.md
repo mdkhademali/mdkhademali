@@ -15,23 +15,10 @@
 I’m a passionate explorer of the <b>geospatial world</b>, leveraging Remote Sensing, GIS, and advanced programming to monitor and visualize our changing environment. My work specializes in high-resolution satellite imagery analysis, automated land use classification, and predictive spatial modeling. Driven by innovation, I integrate <b>Machine Learning</b> and <b>Deep Learning</b> architectures to extract hidden patterns from big geospatial data. I am also deeply interested in developing <b>Geo-Digital Twins</b> creating dynamic, virtual replicas of physical environments to simulate and analyze real-world scenarios through automation and data science techniques.
 
 With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**, and programming languages such as **Python**, and **R**, I enjoy building reproducible workflows and translating geospatial data into meaningful environmental insights.
+</div>
 
 **Founder** at [@GeoSystems-Intelligence](https://github.com/geosystems-intelligence)  
-
-</div>
-•
-<p align="left" style="line-height:1.6;">
-  <i>Strived to innovate in the geospatial field through the development of custom tools and a foundational book on GIS-RS, and ML.</i>
-</p>
-
-<p align="left" style="font-size: 1.1rem;">
-  <b>Developed by:</b> 
-  <u><a href="https://github.com/mdkhademali/coordinate-picker" target="_blank">QGIS Plugin</a></u> | 
-  <u><a href="https://github.com/mdkhademali/geokhadem" target="_blank">Python Library</a></u> | 
-  <u><a href="https://github.com/mdkhademali/geo-location-analyzer" target="_blank">Chrome Extension</a></u> | 
-  <u><a href="https://github.com/mdkhademali/gis-rs-ml-bangla-series" target="_blank">GIS/RS ML Bangla Book</a></u>
-</p>
-
+**Developed by:** [QGIS Plugin](https://github.com/mdkhademali/coordinate-picker) | [Python Library](https://github.com/mdkhademali/geokhadem) | [Chrome Extension](https://github.com/mdkhademali/geo-location-analyzer) | [GIS/RS ML Bangla Book](https://github.com/mdkhademali/gis-rs-ml-bangla-series)
 
 ---
 
