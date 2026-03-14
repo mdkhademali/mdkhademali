@@ -18,8 +18,8 @@ With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**
 </div>
 
 **Founder at:** [@GeoSystems-Intelligence](https://github.com/geosystems-intelligence)  
-**Developed by:** [QGIS Plugin](https://github.com/mdkhademali/coordinate-picker) | [Python Library](https://github.com/mdkhademali/geokhadem) | [Chrome Extension](https://github.com/mdkhademali/geo-location-analyzer) 
-**Author at:** [GIS/RS ML Bangla Book](https://github.com/mdkhademali/gis-rs-ml-bangla-series) 
+**Developed by:** [QGIS Plugin](https://github.com/mdkhademali/coordinate-picker) | [Python Library](https://github.com/mdkhademali/geokhadem) | [Chrome Extension](https://github.com/mdkhademali/geo-location-analyzer)  
+**Author at:** [GIS/RS ML Bangla Book](https://github.com/mdkhademali/gis-rs-ml-bangla-series)  
 
 ---
 
