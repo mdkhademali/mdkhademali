@@ -17,9 +17,10 @@ I’m a passionate explorer of the <b>geospatial world</b>, leveraging Remote Se
 With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**, and programming languages such as **Python**, and **R**, I enjoy building reproducible workflows and translating geospatial data into meaningful environmental insights.
 
 **Founder** at [@GeoSystems-Intelligence](https://github.com/geosystems-intelligence)  
-*Bridging Geospatial Science & Artificial Intelligence*
 
 </div>
+
+•
 
 <p align="left">
   <i>Strived to innovate in the geospatial field through the development of custom tools (QGIS plugin, Python library, Chrome extension) and a foundational book on GIS-RS, and ML. Repository link below (currently private).</i>
