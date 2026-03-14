@@ -8,8 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=mdkhademali&label=Visitors&color=blue&style=flat-square&base=1600" height="22" alt="Visitors" />
 </p>
 
----
-## About Me
 <div align="justify">
 
 I’m a passionate explorer of the <b>geospatial world</b>, leveraging Remote Sensing, GIS, and advanced programming to monitor and visualize our changing environment. My work specializes in high-resolution satellite imagery analysis, automated land use classification, and predictive spatial modeling. Driven by innovation, I integrate <b>Machine Learning</b> and <b>Deep Learning</b> architectures to extract hidden patterns from big geospatial data. I am also deeply interested in developing <b>Geo-Digital Twins</b> creating dynamic, virtual replicas of physical environments to simulate and analyze real-world scenarios through automation and data science techniques.
@@ -19,7 +17,7 @@ With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**
 
 **Founder at:** [GeoSystems-Intelligence](https://github.com/geosystems-intelligence)  
 **Developed by:** [QGIS Plugin](https://github.com/mdkhademali/coordinate-picker) | [Python Library](https://github.com/mdkhademali/geokhadem) | [Chrome Extension](https://github.com/mdkhademali/geo-location-analyzer)  
-**Author at:** [GIS/RS ML Bangla Book](https://github.com/mdkhademali/gis-rs-ml-bangla-series)  
+**Author at:** [GIS-RS ML Bangla Book](https://github.com/mdkhademali/gis-rs-ml-bangla-series)  
 
 ---
 
