@@ -17,7 +17,7 @@ I’m a passionate explorer of the <b>geospatial world</b>, leveraging Remote Se
 With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**, and programming languages such as **Python**, and **R**, I enjoy building reproducible workflows and translating geospatial data into meaningful environmental insights.
 </div>
 
-**Founder at:** [@GeoSystems-Intelligence](https://github.com/geosystems-intelligence)  
+**Founder at:** [GeoSystems-Intelligence](https://github.com/geosystems-intelligence)  
 **Developed by:** [QGIS Plugin](https://github.com/mdkhademali/coordinate-picker) | [Python Library](https://github.com/mdkhademali/geokhadem) | [Chrome Extension](https://github.com/mdkhademali/geo-location-analyzer)  
 **Author at:** [GIS/RS ML Bangla Book](https://github.com/mdkhademali/gis-rs-ml-bangla-series)  
 
