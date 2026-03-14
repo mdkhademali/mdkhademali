@@ -20,16 +20,18 @@ With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**
 
 </div>
 •
-<p align="left">
-  <i>Strived to innovate in the geospatial field through the development of custom tools (QGIS plugin, Python library, Chrome extension) and a foundational book on GIS-RS, and ML. Repository link below (currently private).</i>
+<p align="left" style="line-height:1.6;">
+  <i>Strived to innovate in the geospatial field through the development of custom tools and a foundational book on GIS-RS, and ML.</i>
 </p>
 
-<p align="left">
-  <a href="https://github.com/mdkhademali/coordinate-picker" target="_blank"><img src="https://img.shields.io/badge/-QGIS%20Plugin-589632?style=flat&logo=qgis&logoColor=white" alt="QGIS Plugin"></a>
-  <a href="https://github.com/mdkhademali/geokhadem" target="_blank"><img src="https://img.shields.io/badge/-Python%20Library-3776AB?style=flat&logo=python&logoColor=white" alt="Python Library"></a>
-  <a href="https://github.com/mdkhademali/geo-location-analyzer" target="_blank"><img src="https://img.shields.io/badge/-Chrome%20Extension-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Chrome Extension"></a>
-  <a href="https://github.com/mdkhademali/gis-rs-ml-bangla-series" target="_blank"><img src="https://img.shields.io/badge/-GIS%2FRS%20ML%20Bangla%20Book-8B0000?style=flat&logo=bookstack&logoColor=white" alt="GIS/RS MLBangla Book"></a>
+<p align="left" style="font-size: 1.1rem;">
+  <b>Developed by:</b> 
+  <u><a href="https://github.com/mdkhademali/coordinate-picker" target="_blank">QGIS Plugin</a></u> | 
+  <u><a href="https://github.com/mdkhademali/geokhadem" target="_blank">Python Library</a></u> | 
+  <u><a href="https://github.com/mdkhademali/geo-location-analyzer" target="_blank">Chrome Extension</a></u> | 
+  <u><a href="https://github.com/mdkhademali/gis-rs-ml-bangla-series" target="_blank">GIS/RS ML Bangla Book</a></u>
 </p>
+
 
 ---
 
