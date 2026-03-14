@@ -19,9 +19,7 @@ With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**
 **Founder** at [@GeoSystems-Intelligence](https://github.com/geosystems-intelligence)  
 
 </div>
-
 •
-
 <p align="left">
   <i>Strived to innovate in the geospatial field through the development of custom tools (QGIS plugin, Python library, Chrome extension) and a foundational book on GIS-RS, and ML. Repository link below (currently private).</i>
 </p>
