@@ -1,8 +1,4 @@
-<h1 align="left" style="font-size:2.5rem; margin-bottom:0; border:none;">Hi there, I'm Khadem</h1>
-
-<p align="left" style="font-size:1rem; color:#555; margin-top:5px; margin-bottom:15px; letter-spacing:0.5px;">
-    <i>GIS & Remote Sensing Specialist • GeoAI & Machine Learning • Geo-Digital Twins • Research Enthusiast</i>
-</p>
+<h2 align="left" style="font-size:1.8rem; margin-bottom:5px; border:none;">Hi there, I'm Khadem 👋</h2>
 
 <p align="left">
   <a href="https://orcid.org/0009-0006-0917-3372" target="_blank"><img src="https://img.shields.io/badge/-A6CE39?style=flat&logo=orcid&logoColor=white" height="22" alt="ORCID"></a>
