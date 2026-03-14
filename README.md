@@ -36,8 +36,6 @@ With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&height=25" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white&height=25" />
 
-
-
 </div>
 
 <!-- Skills Overview -->
@@ -54,7 +52,7 @@ With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**
   </tr>
   <tr>
     <th align="left" style="padding:8px; vertical-align:top; color:#3776AB;">Programming Languages</th>
-    <td style="padding:8px; vertical-align:top; color:#333;">Python, JavaScript (for GEE), R, MATLAB, LaTeX</td>
+    <td style="padding:8px; vertical-align:top; color:#333;">Python, R, JavaScript (for GEE), MATLAB, LaTeX</td>
   </tr>
   <tr>
     <th align="left" style="padding:8px; vertical-align:top; color:#2E8B57;">Analysis & Visualization</th>
@@ -65,7 +63,7 @@ With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**
   <tr>
     <th align="left" style="padding:8px; vertical-align:top; color:#E97627;">Research & Writing Tools</th>
     <td style="padding:8px; vertical-align:top; color:#333;">
-      Zotero, Mendeley, Markdown, Notion, Overleaf
+      Zotero, Mendeley, Markdown, Word, Notion, Overleaf
     </td>
   </tr>
   <tr>
