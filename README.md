@@ -52,7 +52,7 @@ With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**
   </tr>
   <tr>
     <th align="left" style="padding:8px; vertical-align:top; color:#3776AB;">Programming Languages</th>
-    <td style="padding:8px; vertical-align:top; color:#333;">Python, R, JavaScript (for GEE), MATLAB, LaTeX</td>
+    <td style="padding:8px; vertical-align:top; color:#333;">Python, R, JavaScript (for GEE), MATLAB</td>
   </tr>
   <tr>
     <th align="left" style="padding:8px; vertical-align:top; color:#2E8B57;">Analysis & Visualization</th>
@@ -63,13 +63,13 @@ With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**
   <tr>
     <th align="left" style="padding:8px; vertical-align:top; color:#E97627;">Research & Writing Tools</th>
     <td style="padding:8px; vertical-align:top; color:#333;">
-      Zotero, Mendeley, Markdown, Word, Notion, Overleaf
+      Zotero, Mendeley, Markdown, Word, Notion, LaTeX
     </td>
   </tr>
   <tr>
     <th align="left" style="padding:8px; vertical-align:top; color:#F05032;">Cloud & Version Control</th>
     <td style="padding:8px; vertical-align:top; color:#333;">
-      Git, GitHub, Kaggle, Google Colab, Jupyter Notebook, VS Code
+      Git, Kaggle, Google Colab, Jupyter Notebook, VS Code
     </td>
   </tr>
 </table>
