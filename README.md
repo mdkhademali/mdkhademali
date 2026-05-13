@@ -10,15 +10,14 @@
 
 <div align="justify">
 
-I’m a passionate explorer of the <b>geospatial world</b>, leveraging Remote Sensing, GIS, and advanced programming to monitor and visualize our changing environment. My work specializes in high-resolution satellite imagery analysis, automated land use classification, and predictive spatial modeling. Driven by innovation, I integrate <b>Machine Learning</b> and <b>Deep Learning</b> architectures to extract hidden patterns from big geospatial data. I am also deeply interested in developing <b>Geo-Digital Twins</b> creating dynamic, virtual replicas of physical environments to simulate and analyze real-world scenarios through automation and data science techniques.
+I’m a passionate explorer of the <b>geospatial world</b>, leveraging Remote Sensing, GIS, and advanced programming to monitor and visualize our changing environment. My work specializes in high-resolution satellite imagery analysis, automated land use classification, predictive spatial modeling, and <b>Vehicles Supply Chain & Logistics Optimization</b> for improving transportation efficiency, route planning, fleet management, and smart mobility systems. Driven by innovation, I integrate <b>Machine Learning</b> and <b>Deep Learning</b> architectures to extract hidden patterns from big geospatial data. I am also deeply interested in developing <b>Geo-Digital Twins</b>, creating dynamic, virtual replicas of physical environments to simulate and analyze real-world scenarios through automation and data science techniques.
 
-With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**, and programming languages such as **Python**, and **R**, I enjoy building reproducible workflows and translating geospatial data into meaningful environmental insights.
+With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**, and programming languages such as **Python** and **R**, I enjoy building reproducible workflows and translating geospatial data into meaningful environmental and logistical insights.
 </div>
 
 **Founder at:** [GeoSystems Intelligence](https://github.com/geosystems-intelligence)  
 **Developed:** [QGIS Plugin](https://github.com/mdkhademali/coordinate-picker) | [Python Library](https://github.com/mdkhademali/geokhadem) | [Chrome Extension](https://github.com/mdkhademali/geo-location-analyzer)  
 **Author of:** [GIS-RS ML Bangla Book](https://github.com/mdkhademali/gis-rs-ml-bangla-series)  
-**Portfolio Work:** [Md Khadem Ali](http://www.khademali.com) | [Dr. Omar Faaruuq](https://dromarfaaruuq.vercel.app/)
 
 ---
 
