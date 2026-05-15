@@ -76,8 +76,14 @@ With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**
 
 ---
 
-## GitHub Stats
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdkhademali&theme=github_dark" />
+  
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdkhademali&theme=github_dark&utcOffset=6" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdkhademali&layout=compact&langs_count=500&theme=radical" />
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdkhademali&theme=react-dark" />
+  </a>
 </p>
