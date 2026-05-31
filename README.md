@@ -10,9 +10,10 @@
 
 <div align="justify">
 
-I’m a passionate explorer of the <b>geospatial world</b>, leveraging Remote Sensing, GIS, and advanced programming to monitor and visualize our changing environment. My work specializes in high-resolution satellite imagery analysis, automated land use classification, predictive spatial modeling, and <b>Vehicles Supply Chain & Logistics Optimization</b> for improving transportation efficiency, route planning, fleet management, and smart mobility systems. Driven by innovation, I integrate <b>Machine Learning</b> and <b>Deep Learning</b> architectures to extract hidden patterns from big geospatial data. I am also deeply interested in developing <b>Geo-Digital Twins</b>, creating dynamic, virtual replicas of physical environments to simulate and analyze real-world scenarios through automation and data science techniques.
+I am a geospatial analyst passionate about Remote Sensing, GIS, spatial data science, and logistics optimization. My work focuses on environmental monitoring, predictive spatial modeling, Geo-Digital Twins, and the application of Machine Learning to complex geospatial challenges. Using tools such as ArcGIS Pro, QGIS, Google Earth Engine, Python, and R, I develop data-driven solutions that bridge environmental intelligence, transportation systems, and digital innovation.
 
-With hands-on experience in tools like **ArcGIS Pro, QGIS, Google Earth Engine**, and programming languages such as **Python** and **R**, I enjoy building reproducible workflows and translating geospatial data into meaningful environmental and logistical insights.
+<b>Research Interests:</b> Geospatial Artificial Intelligence (GeoAI) in GIS and Remote Sensing; Climate Change and Disaster Risk Analytics; Geospatial Digital Twins and Smart Systems; Spatial Supply Chain and Logistics Optimization; and Machine Learning for Earth Observation and Spatial Modeling.
+
 </div>
 
 **Founder at:** [GeoSystems Intelligence](https://github.com/geosystems-intelligence)  
