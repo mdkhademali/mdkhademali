@@ -6,7 +6,7 @@
   <a href="https://www.researchgate.net/profile/Md-Khadem-Ali-3" target="_blank" style="text-decoration: none !important; border: none !important; display: inline-block; margin: 0 5px;"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" height="22" style="border: none !important; outline: none !important; vertical-align: middle;"></a>
   <a href="https://www.khademali.com" target="_blank" style="text-decoration: none !important; border: none !important; display: inline-block; margin: 0 5px;"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat&logo=google-chrome&logoColor=white" height="22" style="border: none !important; outline: none !important; vertical-align: middle;"></a>
   <a href="https://www.buymeacoffee.com/yourusername" target="_blank" style="text-decoration: none !important; border: none !important; display: inline-block; margin: 0 5px;"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" height="22" style="border: none !important; outline: none !important; vertical-align: middle;"></a>
-  <img src="https://komarev.com/ghpvc/?username=mdkhademali&label=Visitors&color=blue&style=flat-square" height="22" style="vertical-align: middle; border: none !important; margin: 0 5px;">
+  <img src="https://komarev.com/ghpvc/?username=mdkhademali&label=Visitors&color=blue&style=flat" height="22" style="vertical-align: middle; border: none !important; margin: 0 5px;">
 </p>
 
 
