@@ -1,11 +1,27 @@
 <h2 align="left" style="font-size:1.8rem; margin-bottom:5px; border:none;">Hi there, I'm Khadem 👋</h2>
 
 <p align="left">
-  <a href="https://orcid.org/0009-0006-0917-3372" target="_blank"><img src="https://img.shields.io/badge/-A6CE39?style=flat&logo=orcid&logoColor=white" height="22" alt="ORCID"></a>
-  <a href="https://scholar.google.com/citations?hl=en&user=KSohxTYAAAAJ" target="_blank"><img src="https://img.shields.io/badge/-4285F4?style=flat&logo=googlescholar&logoColor=white" height="22" alt="Scholar"></a>
-  <a href="https://www.researchgate.net/profile/Md-Khadem-Ali-3" target="_blank"><img src="https://img.shields.io/badge/-00CCBB?style=flat&logo=researchgate&logoColor=white" height="22" alt="ResearchGate"></a>
-  <a href="https://www.khademali.com" target="_blank"><img src="https://img.shields.io/badge/--0A66C2?style=flat&logo=read-the-docs&logoColor=white" height="22" alt="Portfolio"></a>
-  <img src="https://komarev.com/ghpvc/?username=mdkhademali&label=Visitors&color=blue&style=flat-square&base=1600" height="22" alt="Visitors" />
+  <a href="https://orcid.org/0009-0006-0917-3372" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" height="22">
+  </a>
+
+  <a href="https://scholar.google.com/citations?hl=en&user=KSohxTYAAAAJ" target="_blank">
+    <img src="https://img.shields.io/badge/Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" height="22">
+  </a>
+
+  <a href="https://www.researchgate.net/profile/Md-Khadem-Ali-3" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" height="22">
+  </a>
+
+  <a href="https://www.khademali.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat&logo=google-chrome&logoColor=white" height="22">
+  </a>
+
+  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" height="22">
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=mdkhademali&label=Visitors&color=blue&style=flat-square" height="22">
 </p>
 
 <div align="justify">
