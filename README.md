@@ -1,28 +1,23 @@
 <h2 align="left" style="font-size:1.8rem; margin-bottom:5px; border:none;">Hi there, I'm Khadem 👋</h2>
-
 <p align="left">
-  <a href="https://orcid.org/0009-0006-0917-3372" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" height="22">
+  <!-- Academic & Portfolio Icons (In one line) -->
+  <a href="https://orcid.org/0009-0006-0917-3372" target="_blank" style="text-decoration: none; margin-right: 5px;">    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" height="22">
   </a>
-
-  <a href="https://scholar.google.com/citations?hl=en&user=KSohxTYAAAAJ" target="_blank">
-    <img src="https://img.shields.io/badge/Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" height="22">
+  <a href="https://scholar.google.com/citations?hl=en&user=KSohxTYAAAAJ" target="_blank" style="text-decoration: none; margin-right: 5px;">    <img src="https://img.shields.io/badge/Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" height="22">
   </a>
-
-  <a href="https://www.researchgate.net/profile/Md-Khadem-Ali-3" target="_blank">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" height="22">
+  <a href="https://www.researchgate.net/profile/Md-Khadem-Ali-3" target="_blank" style="text-decoration: none; margin-right: 5px;">    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" height="22">
   </a>
-
-  <a href="https://www.khademali.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat&logo=google-chrome&logoColor=white" height="22">
+  <a href="https://www.khademali.com" target="_blank" style="text-decoration: none; margin-right: 5px;">    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat&logo=google-chrome&logoColor=white" height="22">
   </a>
-
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" height="22">
-  </a>
-
   <img src="https://komarev.com/ghpvc/?username=mdkhademali&label=Visitors&color=blue&style=flat-square" height="22">
+
+  <br><br> <!-- This moves the next icon to a new line -->
+
+  <!-- Buy Me A Coffee Icon (On a separate line, icon only) -->
+  <a href="https://www.buymeacoffee.com/yourusername" target="_blank" style="text-decoration: none;">    <img src="https://img.shields.io/badge/-BMC-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" height="22">
+  </a>
 </p>
+
 
 <div align="justify">
 
