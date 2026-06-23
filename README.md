@@ -19,25 +19,6 @@ I am a geospatial analyst passionate about Remote Sensing, GIS, spatial data sci
 
 ---
 
-<h2>🌟 Featured Research Project</h2>
-
-<p>
-  <b>1. Geospatial Supply Chain & Logistics Optimization</b>
-</p>
-
-<p><a href="https://github.com/mdkhademali/geospatial-supply-chain-optimization" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github" height="22"></a>&nbsp;<a href="https://doi.org/10.5281/zenodo.20603145" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20603145-blue?style=flat&logo=doi" height="22"></a></p>
-<div align="justify">
-A geospatial intelligence-driven supply chain optimization framework integrating GIS, network analysis, and machine learning for solving real-world logistics problems. The system focuses on facility location optimization, route efficiency, and spatial demand modeling using graph-based and data-driven approaches.
-</div>
-
----
-
-**Founder at:** [GeoSystems Intelligence](https://github.com/geosystems-intelligence)  
-**Developed:** [QGIS Plugin](https://github.com/mdkhademali/coordinate-picker) | [Python Library](https://github.com/mdkhademali/geokhadem) | [Chrome Extension](https://github.com/mdkhademali/geo-location-analyzer)  
-**Author of:** [GIS-RS ML Bangla Book](https://github.com/mdkhademali/gis-rs-ml-bangla-series)  
-
----
-
 <h2>What I’m Proficient In</h2>
 
 <!-- Badges Section -->
